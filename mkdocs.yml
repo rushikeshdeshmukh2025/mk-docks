@@ -14,7 +14,7 @@ theme:
 # Dark Mode
     - scheme: slate
       toggle:
-        icon: material/weather-sunny
+        icon: material/weather-sunset-up
         name: Dark mode
       primary: green
       accent: deep purple
